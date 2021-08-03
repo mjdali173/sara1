@@ -642,7 +642,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#232526', end
 .raleway-font{font-family: 'Raleway', sans-serif;}
 
 .font-100 {font-weight:100;}
-.font-200 {font-weight:200;}
+.font-200 {font-weight:200; text-shadow : 7px 7px 9px #131212 ; font-weight: 200}
 .font-300 {font-weight:300;}
 .font-400 {font-weight:400;}
 .font-500 {font-weight:500;}
@@ -2551,7 +2551,7 @@ q {font-style: italic;}
 /* Add a blue color to the author */
 .author {color: cornflowerblue;}
 
-.HH { color: #96724b ; font-size: 20px ; text-align: center ;}
+.HH { color: #96724b ; font-size: 20px ; text-align: center ; text-shadow : 7px 7px 9px #131212 ; font-weight: 500}
 
 
 .fixx {
